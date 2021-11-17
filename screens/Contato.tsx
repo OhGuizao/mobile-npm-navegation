@@ -24,7 +24,7 @@ export default function Contato({navigation}){
                 <TouchableOpacity style={estilo.btn} onPress={() => {
                     navigation.navigate("Contato");
                 }}>
-                    <AntDesign name="phone" size={24} color="white" />
+                    <AntDesign name="phone" size={24} color="black" />
                 </TouchableOpacity>
 
 

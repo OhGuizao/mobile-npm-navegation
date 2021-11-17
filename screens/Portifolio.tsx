@@ -31,7 +31,7 @@ export default function Portifolio({navigation}) {
                 <TouchableOpacity style={estilo.btn} onPress={() => {
                     navigation.navigate("Portifolio");
                 }}>
-                <FontAwesome name="list" size={24} color="white" />
+                <FontAwesome name="list" size={24} color="black" />
                 </TouchableOpacity>
 
 

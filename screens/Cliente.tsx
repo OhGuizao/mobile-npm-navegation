@@ -17,7 +17,7 @@ export default function Cliente({ navigation}) {
                 <TouchableOpacity style={estilo.btn} onPress={() =>{
                     navigation.navigate("Cliente");
                 }}> 
-                    <AntDesign name="user" size={24} color="white" />
+                    <AntDesign name="user" size={24} color="black" />
                 </TouchableOpacity>
 
 

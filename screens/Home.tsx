@@ -10,7 +10,7 @@ export default function Home({ navigation }) {
                 <TouchableOpacity style={estilo.btn} onPress={() => {
                     navigation.navigate("Home");
                 }}>
-                    <AntDesign name="home" size={24} color="white" />
+                    <AntDesign name="home" size={24} color="black" />
                 </TouchableOpacity>
 
 
